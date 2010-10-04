@@ -1,0 +1,41 @@
+#summary This page is the Project Numagen Scope.
+
+= Project Numagen (PN) Scope=
+
+This project will combine multiple mathematical principles and statical principles into once formula. This formula will be used in to setup the Numagen Algorithm.
+
+
+= Details =
+
+PN will develop the Numagen application in several different phases.
+
+  * Phase I - Problem & Hypothesis
+  * Phase II - Formula Creation & Validation
+  * Phase III - Algorithm Generation, Pseudocode, & GUI Interface and Database Design _(Data Integrity and Validation Testing Included)_
+  * Phase IV - Pseudocode Translation, Object Defining, & Database Linking _(Data Integrity and Validation Testing Included)_
+  * Phase V - Beta Testing & Debugging
+  * Phase VI - Release & Review
+
+= Phase I - Problem & Hypothesis =
+
+  * TODO:
+
+= Phase II - Formula Creation & Validation =
+
+  * TODO:
+
+= Phase III - Algorithm Generation, Pseudocode, & GUI Interface and Database Design =
+
+  * TODO:
+
+= Phase IV - Pseudocode Translation, Object Defining, & Database Linking =
+
+  * TODO:
+
+= Phase V - Beta Testing & Debugging =
+
+  * TODO:
+
+= Phase VI - Release & Review =
+
+  * TODO:
