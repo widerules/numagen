@@ -16,26 +16,26 @@ PN will develop the Numagen application in several different phases.
   * Phase V - Beta Testing & Debugging
   * Phase VI - Release & Review
 
-= Phase I - Problem & Hypothesis =
+=== Phase I - Problem & Hypothesis ===
 
   * TODO:
 
-= Phase II - Formula Creation & Validation =
+=== Phase II - Formula Creation & Validation ===
 
   * TODO:
 
-= Phase III - Algorithm Generation, Pseudocode, & GUI Interface and Database Design =
+=== Phase III - Algorithm Generation, Pseudocode, & GUI Interface and Database Design ===
 
   * TODO:
 
-= Phase IV - Pseudocode Translation, Object Defining, & Database Linking =
+=== Phase IV - Pseudocode Translation, Object Defining, & Database Linking ===
 
   * TODO:
 
-= Phase V - Beta Testing & Debugging =
+=== Phase V - Beta Testing & Debugging ===
 
   * TODO:
 
-= Phase VI - Release & Review =
+=== Phase VI - Release & Review ===
 
   * TODO:
