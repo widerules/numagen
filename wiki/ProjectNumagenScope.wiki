@@ -2,40 +2,97 @@
 
 = Project Numagen (PN) Scope=
 
-This project will combine multiple mathematical principles and statical principles into once formula. This formula will be used in to setup the Numagen Algorithm.
-
+This project will combine multiple mathematical principles and statical principles into once formula. This formula will be used to setup the Numagen Algorithm.
 
 = Details =
 
 PN will develop the Numagen application in several different phases.
 
-  * Phase I - Problem & Hypothesis
-  * Phase II - Formula Creation & Validation
-  * Phase III - Algorithm Generation, Pseudocode, & GUI Interface and Database Design _(Data Integrity and Validation Testing Included)_
-  * Phase IV - Pseudocode Translation, Object Defining, & Database Linking _(Data Integrity and Validation Testing Included)_
-  * Phase V - Beta Testing & Debugging
-  * Phase VI - Release & Review
+  * Phase I - Initial Planning
+  * Phase II - Requirements & Specifications Analysis
+  * Phase III - Design & Initial Development
+  * Phase IV - Coding & Implementation Literature
+  * Phase V - Testing & Integration: Manual & Automated
+  * Phase VI - Client Side Evaluation
+  * Phase VII - Release
+  * Phase VIII - Support
 
-=== Phase I - Problem & Hypothesis ===
+ === Phase I - Initial Planning === 
 
-  * TODO:
+ ==== Problem  ==== 
 
-=== Phase II - Formula Creation & Validation ===
+ * TODO: 
 
-  * TODO:
-
-=== Phase III - Algorithm Generation, Pseudocode, & GUI Interface and Database Design ===
-
-  * TODO:
-
-=== Phase IV - Pseudocode Translation, Object Defining, & Database Linking ===
+ ==== Hypothesis  ====
 
   * TODO:
 
-=== Phase V - Beta Testing & Debugging ===
+=== Phase II - Requirements & Specifications Analysis ===
+
+ ==== Requirements Analysis ====
 
   * TODO:
 
-=== Phase VI - Release & Review ===
+ ==== Specifications Analysis ====
 
   * TODO:
+
+=== Phase III - Application Interface Design, Initial Development, & Database Design ===
+
+ ==== Application Interface Design ====
+
+  * TODO:
+
+  ==== Initial Development  ====
+
+  * TODO:
+
+  ==== Database Design ====
+
+  * TODO:
+
+=== Phase IV - Pseudocode, Translation, Coding & Implementation Literature===
+
+  ==== Pseudocode ====
+
+  * TODO:
+
+  ==== Translation ====
+
+  * TODO:
+
+=== Phase V - Testing & Integration: Manual & Automated ===
+
+  ==== Database Linking  ====
+
+  * TODO:
+
+  ==== Testing: Manual & Automated ====
+
+  * TODO:
+
+  ==== Integration: Manual & Automated ====
+
+  * TODO:
+
+=== Phase VI - Client Side Evaluation ===
+
+  ==== Review ====
+
+  * TODO:
+
+  ==== Release ====
+
+  * TODO:
+
+=== Phase VII - Release ===
+
+  ==== Release ====
+
+  * TODO:
+
+=== Phase VIII - Support ===
+
+==== Release ====
+
+  * Please email: numagen@googlecode.com
